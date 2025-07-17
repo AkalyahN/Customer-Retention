@@ -31,6 +31,8 @@ This Power BI project provides a visual and analytical understanding of customer
      - Retention heatmaps
      - Summary statistics
 
-## 📁 File Structure
+Kaggle link to the Online Retail II (Raw Transaction Data) dataset:
+
+🔗https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
 
 
